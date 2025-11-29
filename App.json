@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "AI Trader",
+    "slug": "ai-trader-mobile-only",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "platforms": ["android", "ios"],
+    "android": {
+      "package": "com.memorynegotiation.aitrader",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.memorynegotiation.aitrader",
+      "buildNumber": "1.0.0"
+    }
+  }
+}
