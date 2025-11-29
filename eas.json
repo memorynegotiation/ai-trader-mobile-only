@@ -1,0 +1,19 @@
+{
+  "projectId": "a08a54be",
+  "cli": {
+    "version": ">= 3.0.0",
+    "appVersionSource": "app.json"
+  },
+  "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "production": {
+      "android": {
+        "buildType": "app-bundle"
+      }
+    }
+  }
+}
